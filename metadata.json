@@ -1,0 +1,8 @@
+{
+  "name": "Trishli AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant with a sassy, flirty personality. Developed by Amit, powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
